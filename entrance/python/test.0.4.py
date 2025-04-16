@@ -5,7 +5,7 @@ import math
 
 # Define the lengths of the tubing in meters
 A_length =      8.8
-B_length =      8.0
+B_length =      7.8
 B_2_length =    6.5
 C_length =      1.0
 D_length =      0.8
@@ -15,7 +15,7 @@ installation_length = 10.0
 
 # Define the radius of the bends in meters
 r =     0.1
-r_2 =   0.25
+r_2 =   0.3
 
 # Define the angles as part of a circle (b_1 and b_3 from the figure = b_90, b_2 and b_4 from the figure = b_180).
 b_90 =  0.25
